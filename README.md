@@ -1,6 +1,6 @@
 # IMDB-Clone-App
 
-![homepage](https://drive.google.com/file/d/1_SWG7GF46ZUZQwttVUA4WPPtYLBe18yX/view?usp=share_link)
+<img width="949" alt="Homepage" src="https://user-images.githubusercontent.com/100505172/206191845-c79ed564-6cee-4262-b7ff-7b82f0170ddd.png">
 
 ![favourites](https://drive.google.com/file/d/1OYO68SItBDjZl2QHCool-rO284CIUtDK/view?usp=share_link)
 
